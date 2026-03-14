@@ -21,7 +21,7 @@ to show doctors exactly where the model detected abnormalities.
 
 `Python` `PyTorch` `FastAPI` `Computer Vision` `REST API` `HTML/JS`
 
-### ⚾ [Baseball Team Manager](https://github.com/HitanshuBhatt/Baseball-Team-Manager-Application)
+###  [Baseball Team Manager](https://github.com/HitanshuBhatt/Baseball-Team-Manager-Application)
 A command-line application for managing a baseball team's batting lineup, built with clean
 layered architecture — separating UI, business logic, and data access layers.
 Features persistent CSV storage, OOP design, and full input validation.
